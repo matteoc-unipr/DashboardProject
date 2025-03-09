@@ -3,7 +3,7 @@ import CurrentUser from "./current-user";
 
 const Header = () => {
   const headerStyles: React.CSSProperties = {
-    background: "#fff",
+    background: "transparent",
     display: "flex",
     justifyContent: "flex-end",
     alignItems: "center",
